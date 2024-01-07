@@ -1,0 +1,15 @@
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/bin/Debug/net7.0/expressoes-numericas
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/bin/Debug/net7.0/expressoes-numericas.deps.json
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/bin/Debug/net7.0/expressoes-numericas.runtimeconfig.json
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/bin/Debug/net7.0/expressoes-numericas.dll
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/bin/Debug/net7.0/expressoes-numericas.pdb
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/expressoes-numericas.csproj.AssemblyReference.cache
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/expressoes-numericas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/expressoes-numericas.AssemblyInfoInputs.cache
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/expressoes-numericas.AssemblyInfo.cs
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/expressoes-numericas.csproj.CoreCompileInputs.cache
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/expressoes-numericas.dll
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/refint/expressoes-numericas.dll
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/expressoes-numericas.pdb
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/expressoes-numericas.genruntimeconfig.cache
+/Users/rodrigofarias/Code/Exercicios/expressoes-numericas/obj/Debug/net7.0/ref/expressoes-numericas.dll
